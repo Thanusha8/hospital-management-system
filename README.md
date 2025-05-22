@@ -3,4 +3,4 @@
 
 
 # hospital-management-system
-Developed a healthcare web app for online appointments, service searches, and admin tools with responsive design and robust error handling.
+I developed a web-based healthcare management system to streamline private hospital operations. The platform enables online patient registration, appointment scheduling, and service searches, with separate interfaces for administrators and patients. Built with HTML, PHP, JavaScript, and CSS, it features responsive design, robust error handling, and thorough testing for reliability. The user-friendly UI resulted from research, wireframing, and sitemap planning, improving both patient experience and administrative efficiency.
